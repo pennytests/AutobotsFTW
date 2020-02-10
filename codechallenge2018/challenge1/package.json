@@ -1,7 +1,7 @@
 {
   "name": "challenge1",
   "version": "1.0.0",
-  "description": "Challenge1 of Chang",
+  "description": "Challenge1 of Howard",
   "main": "challenge1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
